@@ -8,10 +8,13 @@ table {
   border: -1px solid blue
 }
 
+.container {
+  margin-top: 40px;
+}
+
 .card {
   border-radius: 12px;
   box-shadow: 3px 3px 10px #c3c3c3;
-  margin-top: 200px;
   margin-left: 20px;
 }
 
@@ -35,8 +38,7 @@ table {
 .box {
   width: 28%;
   float: left;
-  height: 700px;/*Altura da linha*/
-  margin-top: 40px;
+  height: 275px;/*Altura da linha*/
 }
 
 .cards-container {
@@ -59,14 +61,14 @@ table {
   background-position: center;
   background-size: contain;
   position: relative;
-  top: 215px;
-  right: 15px;
+  top: 45px;
+  right: 30px;
   width: 30px;
   height: 30px;
 }
 
 .sales-info {
-  margin-right: 28px;
+  margin-right: 50px;
 }
 
 .icons {
