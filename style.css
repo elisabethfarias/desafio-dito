@@ -1,5 +1,5 @@
 body {
-  background: rgb(77, 74, 74);
+  background:#eff1fd;
 }
 
 table {
@@ -41,7 +41,7 @@ table {
   height: 275px;/*Altura da linha*/
 }
 
-.cards-container {
+.card-container {
   padding-left: 0;
   right: 10px;
 }
@@ -51,7 +51,7 @@ table {
 }
  
 .linha-vertical {
-  border-right: 2px solid grey;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  border-right: 2px solid #d8d8d8;
   box-sizing: border-box;
 }
 
